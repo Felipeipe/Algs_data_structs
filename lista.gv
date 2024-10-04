@@ -1,0 +1,5 @@
+digraph "Lista" { rankdir=LR; HEAD [shape=plaintext label="cabecera"];
+NULL [shape=square label=""];
+node[shape=circle];
+HEAD -> 37 -> 21 -> 10 -> 46 -> 50 -> 58 -> 18 -> 74 -> 85 -> 40 -> NULL;
+ }

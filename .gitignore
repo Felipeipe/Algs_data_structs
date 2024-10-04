@@ -154,7 +154,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-**/prueba.py
+**/prueba.**
 Tarea3_Fernando_Muñoz_Ojeda.ipynb
 Tareas/Tarea 4/lista.gv
 Tareas/Tarea 4/lista.gv.pdf

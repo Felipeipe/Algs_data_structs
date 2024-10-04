@@ -2,6 +2,10 @@
 
 Este es el repositorio oficial del curso "Algoritmos y Estructuras de Datos" del [Departamento de Ciencias de la Computación](http://www.dcc.uchile.cl) de la [Universidad de Chile](http://www.uchile.cl).  El apunte está en lenguaje Python en formato Jupyter Notebook y está basado en los antiguos apuntes en Java de Patricio Poblete y Benjamín Bustos. Actualizaciones de Ivan Sipiran.
 
+Archivo de pruebas: [Abrir](prueba.ipynb)
+
+Pauta guia: [Abrir](Pauta_guia.pdf)
+
 ## Temario del Curso
 
   1. Introducción [Abrir el archivo local](01_Introduccion.ipynb)
@@ -12,7 +16,7 @@ Este es el repositorio oficial del curso "Algoritmos y Estructuras de Datos" del
 
       - Ejercicios [Abrir el archivo local](Ejercicios/02_Ejercicios.ipynb)
 
-  3. Diseño de algoritmos eficientes [Abrir el archivo local](03_Diseño_de_Algoritmos_eficientes.ipynb)
+  3. Diseño de algoritmos eficientes [Abrir el archivo local](03_Diseño_de_Algoritmos_Eficientes.ipynb)
 
       - Ejercicios [Abrir el archivo local](Ejercicios/03_Ejercicios.ipynb)
 
